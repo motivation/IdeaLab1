@@ -1,0 +1,10 @@
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\bin\Debug\DSW.exe.config
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\bin\Debug\DSW.exe
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\bin\Debug\DSW.pdb
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\obj\Debug\DSW.MainWindow.resources
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\obj\Debug\DSW.LoginWindow.resources
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\obj\Debug\DSW.Properties.Resources.resources
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\obj\Debug\DSW.csproj.GenerateResource.Cache
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\obj\Debug\DSW.exe
+C:\Users\sima\Documents\Visual Studio 2008\Projects\DSW\DSW\obj\Debug\DSW.pdb
